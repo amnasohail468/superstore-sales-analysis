@@ -1,0 +1,16 @@
+Customer_Name,Segment,Region,total_sales,cumulative_sales,customer_rank
+Sean Miller,Home Office,South,23669.21,23669.21,1
+Tamara Chand,Corporate,Central,18437.14,42106.35,2
+Raymond Buch,Consumer,West,14345.28,56451.63,3
+Tom Ashbrook,Home Office,East,13723.5,70175.13,4
+Adrian Barton,Consumer,Central,12181.6,82356.73,5
+Becky Martin,Consumer,Central,10539.9,92896.63,6
+Hunter Lopez,Consumer,East,10522.55,103419.18,7
+Bill Shonely,Corporate,East,10022.29,113441.47,8
+Sanjit Chand,Consumer,Central,9900.19,123341.66,9
+Greg Tran,Consumer,East,9382.94,132724.6,10
+Seth Vernon,Consumer,East,9216.56,141941.16,11
+Sanjit Engle,Consumer,South,8805.04,150746.2,12
+Christopher Conant,Consumer,East,8765.66,159511.86,13
+Ken Lonsdale,Consumer,West,8472.39,167984.25,14
+Grant Thornton,Corporate,South,8167.42,176151.67,15

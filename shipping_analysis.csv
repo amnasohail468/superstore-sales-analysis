@@ -1,0 +1,13 @@
+Segment,Ship_Mode,order_count,avg_days_to_ship,total_sales
+Consumer,Standard Class,3031,5.0,702377.8
+Consumer,Second Class,1003,3.2,230125.45
+Consumer,First Class,755,2.2,158104.83
+Consumer,Same Day,312,0.0,57452.21
+Corporate,Standard Class,1782,5.0,401747.41
+Corporate,Second Class,589,3.3,139045.25
+Corporate,First Class,468,2.2,102580.02
+Corporate,Same Day,114,0.1,45121.34
+Home Office,Standard Class,1046,5.0,236706.19
+Home Office,Second Class,310,3.3,80743.3
+Home Office,First Class,278,2.1,84887.3
+Home Office,Same Day,112,0.1,22645.45
