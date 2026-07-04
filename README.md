@@ -38,7 +38,8 @@ across Furniture, Office Supplies, and Technology categories
 [View live Tableau dashboard](https://public.tableau.com/app/profile/amna.sohail3091/viz/SuperstoreSalesAnalysis-2015to2018/Dashboard1)
 
 ## How to Run
-1. Download train.csv from Kaggle Superstore Sales dataset
+1. Download the Superstore Sales dataset from Kaggle:
+   kaggle.com/datasets/rohitsahoo/sales-forecasting
 2. Open superstore_analysis.ipynb in Google Colab
 3. Upload train.csv when prompted
 4. Run all cells — cleans data, engineers features, loads into 
